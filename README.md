@@ -1,7 +1,7 @@
 # critica_peliculas
 Nombre usuario:martinagg7
 
-Link repo:
+Link repo:https://github.com/martinagg7/critica_peliculas.git
 
 
 ## Archivos
